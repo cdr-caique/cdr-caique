@@ -1,4 +1,4 @@
-- 👋 Olá! Meu nome é Caíque Rezende, tenho 28 anos, desde criança sou amante de tecnologia e gosto de pesquisar e aprender sobre o tema.
+- 👋 Olá! Meu nome é Caíque Rezende, tenho 29 anos, desde criança sou amante de tecnologia e gosto de pesquisar e aprender sobre o tema.
 - 👀 Estou sempre de olho em Engenharia e Desenvolvimento de Softare, e meu maior foco é na área de Backend.
 - 📫 caiquecleber@outlook.com / caiquecleber@gmail.com
 - 💼 www.linkedin.com/in/cdr-caique/
