@@ -1,3 +1,7 @@
+<a name="readme-top"></a>
+
+# Caíque Rezende
+
 <p align="center">
   <a href="#english">English</a> •
   <a href="#portugues">Português</a>
@@ -37,7 +41,9 @@ I enjoy understanding problems as a whole, reducing complexity, and building sol
 
 Feel free to explore my projects and follow what I'm building! 🚀
 
-[Back to top](#caique-rezende)
+<p align="right">
+  <a href="#readme-top">⬆️ Back to top</a>
+</p>
 
 ---
 
@@ -73,4 +79,6 @@ Gosto de compreender os problemas por inteiro, reduzir complexidade e construir 
 
 Sinta-se à vontade para explorar meus projetos e acompanhar o que venho construindo! 🚀
 
-[Voltar ao início](#caique-rezende)
+<p align="right">
+  <a href="#readme-top">⬆️ Voltar ao início</a>
+</p>
